@@ -11,7 +11,9 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #030217;
+    --pink: #ff74a4;
+    --violet: #9f6ea3;
+    background: linear-gradient(var(--pink) 0%, var(--violet) 100%);
 }
 
 ::selection {
