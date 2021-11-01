@@ -20,9 +20,9 @@ body {
 }
 
 .wrapper {
-    width: 420px;
+    width: 380px;
     border-radius: 7px;
-    background: #fff;
+    background: pink;
     padding: 25px 28px 45px;
     box-shadow: 7px 7px 20px rgb(2, 1, 1);
 }
